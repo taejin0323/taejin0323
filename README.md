@@ -22,10 +22,10 @@
 
 ## :green_book: GitHub Stats
 
-![TAEJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejin0527&theme=gotham&show_icons=true)
+![TAEJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejin0323&theme=gotham&show_icons=true)
 
 ## :green_book: Most Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin0527&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin0323&layout=compact&theme=gotham)
 
 </div>
